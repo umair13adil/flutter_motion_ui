@@ -1,6 +1,6 @@
-# flutter_complex_ui
+# flutter_motion_ui
 
-A new Flutter application.
+A flutter app to show case use of Animations in the app.
 
 ## Getting Started
 
